@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<policies>
-  <policy policyType="asana" policyName="Asana1" policyTemplate="online_v1_basic_oauth">
-    <credentialName>CompletePolicyProjectAsana_Asana1</credentialName>
-    <applicationVersion>v1</applicationVersion>
-    <applicationType>online</applicationType>
-    <authenticationMethod>BASIC_OAUTH</authenticationMethod>
-  </policy>
-</policies>
+<?xml version="1.0" encoding="UTF-8"?><policies><policy policyName="Asana1" policyTemplate="online_v1_basic_oauth" policyType="asana"><applicationType>online</applicationType><applicationVersion>v1</applicationVersion><authenticationMethod>BASIC_OAUTH</authenticationMethod><apiVersion>1.0</apiVersion><credentialName>CompletePolicyProjectAsana_Asana1</credentialName></policy></policies>
